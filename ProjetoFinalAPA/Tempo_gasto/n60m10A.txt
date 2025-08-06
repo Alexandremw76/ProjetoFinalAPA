@@ -1,0 +1,3 @@
+Tempo de processamento gasto Guloso para instancia n60m10A.txt : 0.000005 Segundos 
+Tempo de processamento gasto VND para instancia n60m10A.txt : 0.003404 Segundos 
+Tempo de processamento gasto ILS(BUSCA LOCAL ITERADA) para instancia n60m10A.txt : 11.450033 Segundos 

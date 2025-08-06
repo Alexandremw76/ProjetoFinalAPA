@@ -1,0 +1,3 @@
+Tempo de processamento gasto Guloso para instancia n25m5A.txt : 0.000003 Segundos 
+Tempo de processamento gasto VND para instancia n25m5A.txt : 0.000333 Segundos 
+Tempo de processamento gasto ILS(BUSCA LOCAL ITERADA) para instancia n25m5A.txt : 1.954945 Segundos 
