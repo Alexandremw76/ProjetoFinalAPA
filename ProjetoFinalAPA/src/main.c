@@ -22,10 +22,6 @@ n60m10A = 973
 */
 
 
-//José Ricardo Bezerra De Oliveira 				20190095576
-//José Alexandre Bezerra De Oliveira            20190098030
-
-
 
 const char *nomesArquivos_entrada[] = {"n5m15A.txt", "n5m15B.txt", "n25m5A.txt", "n30m5A.txt", "n60m10.txt", "n60m10A.txt"};
 
@@ -113,4 +109,5 @@ int main()
         liberarMemoria(p, sol, melhorSolucao); // liberar memória alocada para o problema e soluções
     }
     return 0;
+
 }
